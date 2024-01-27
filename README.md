@@ -12,4 +12,4 @@
 
 ### Link to the Webpage Preview
 
-[Number Guessing Game](https://dijanakalaposratic.github.io/pp-01-living-the-simple-life/pp-03-number-guessing-game)
+[Number Guessing Game](https://dijanakalaposratic.github.io/pp-03-number-guessing-game)
